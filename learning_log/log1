@@ -1,0 +1,12 @@
+date: 13.10.2026
+
+topics:
+- introduction to the Arduino kit, getting to know the main components with focus on the microcontroller and the breadboard
+- short introduction to the Arduino IDE
+
+learnings:
+- we adjusted the blinking speed of the LEDs we plugged into the microcontroller (pin 13 and GND)
+
+important:
+- before changing something in the microcontroller deplug it from the laptop!
+- watch out for short circuits
